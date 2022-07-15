@@ -4,7 +4,7 @@
 
 This is a repository for my code, made for a friend as a personal, landing page style website.
 
-<img src="resources\img\line-break.png" align="center" width="100%"/>
+<img src="img\line-break.png" align="center" width="100%"/>
 
 ## Table of Contents <!-- omit in toc -->
 - [General Info](#general-info)
@@ -13,7 +13,7 @@ This is a repository for my code, made for a friend as a personal, landing page 
 - [Status](#status)
 - [Contributing](#contributing)
 
-<img src="resources\img\line-break.png" align="center" width="100%"/>
+<img src="img\line-break.png" align="center" width="100%"/>
 
 ## General Info
 
@@ -29,13 +29,13 @@ From the website:
 
 To view the project's source code, live demo, and/or direct link to its challenge, please click on the respective links below.
 
-<img src="resources\img\line-break.png" align="center" width="100%"/>
+<img src="img\line-break.png" align="center" width="100%"/>
 
 ## Status
 
 :arrows_counterclockwise: In progress - Working on responsiveness
 
-<img src="resources\img\line-break.png" align="center" width="100%"/>
+<img src="img\line-break.png" align="center" width="100%"/>
 
 ## Contributing
 
