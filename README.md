@@ -33,7 +33,7 @@ To view the project's source code, live demo, and/or direct link to its challeng
 
 ## Status
 
-:arrows_counterclockwise: In progress - Working on responsiveness
+:arrows_counterclockwise: Complete - Awaiting further requests for updates.
 
 <img src="img\line-break.png" align="center" width="100%"/>
 
